@@ -15,9 +15,9 @@ This project transforms raw Excel data into actionable insights for anyone who t
 * **Power Query:** Data cleaning, unpivoting, and M-language transformations.
 * **Visualization:** Custom tooltips, bookmarks, and conditional formatting.
 
-## 📈 Insights & Impact
+## Insights & Impact
 * Identified high amounts of Televisions and Smartphones purchased.
 * The relation between total sales and total revenue indicated the business made a +ve revenue. 
 
-## 📂 How to Use
+## How to Use
 1. Download the `.pbix` file.
