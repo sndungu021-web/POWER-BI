@@ -4,12 +4,12 @@
 A comprehensive Power BI report designed to analyze Sales Performance. 
 This project transforms raw Excel data into actionable insights for anyone who takes data seriously.
 
-## 🚀 Key Features
+## Key Features
 * **Dynamic Year-over-Year (YoY) growth tracking.
 * **Interactive "What-If" parameters for forecasting.
 * **Drill-through pages for granular customer analysis.
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 * **Data Modeling:** Star Schema, 1:Many relationships.
 * **DAX:** SUM, SUMIF, AVERAGE, COUNT e.t.c
 * **Power Query:** Data cleaning, unpivoting, and M-language transformations.
